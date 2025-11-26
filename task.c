@@ -1,6 +1,7 @@
 #include<stdio.h>
 int main()
 {
-	printf("hello,linux");
+	printf("hello linux!");
 	return 0;
 }
+
